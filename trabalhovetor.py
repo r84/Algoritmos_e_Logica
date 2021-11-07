@@ -1,3 +1,8 @@
+#01) Tentando descobrir se um dado era viciado, um dono de cassino
+#honesto (ha! ha! ha! ha!) o lançou 20 vezes. Dados os 20 resultados
+#dos lançamentos armazenados em um vetor, faça um algoritmo que
+#determine o número de ocorrências de cada face.
+
 import random
 
 print('trabalho vetores')
